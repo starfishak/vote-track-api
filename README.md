@@ -1,2 +1,2 @@
-# vote-track-api
-This is a REST service that provides voting information
+# **Vote Tracker API** #
+This is a REST servie that provides voting information.
